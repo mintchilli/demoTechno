@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello programmeurs chez Stim dans la branche master pour allonger la branche!\n";
+    std::cout << "Hello programmeurs chez Stim dans la branche master pour allonger la branche encore plus!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
